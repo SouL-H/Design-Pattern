@@ -10,5 +10,6 @@
 
 # Görünüm
 <p align="center">
-    <img src="https://raw.githubusercontent.com/SouL-H/MapengineeringApp/master/rsm/app1.png"  alt="Observer">
+    <img src="https://github.com/SouL-H/Design-Pattern/blob/master/Singleton%20Pattern/img/img1.jpg?raw=true"  alt="Observer">
+     <img src="https://github.com/SouL-H/Design-Pattern/blob/master/Singleton%20Pattern/img/img2.jpg?raw=true"  alt="Observer">
 </p>

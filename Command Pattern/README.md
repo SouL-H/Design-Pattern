@@ -14,5 +14,5 @@ Yapılan değişiklikleri ileri geri tuşu ile kontrol edebilmekte.Yapılan değ
 # Görünüm
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/SouL-H/MapengineeringApp/master/rsm/app1.png"  alt="Observer">
+    <img src="https://github.com/SouL-H/Design-Pattern/blob/master/Command%20Pattern/img/img.jpg?raw=true"  alt="Observer">
 </p>

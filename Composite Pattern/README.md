@@ -9,5 +9,5 @@
 
 # Görünüm
 <p align="center">
-    <img src="https://raw.githubusercontent.com/SouL-H/MapengineeringApp/master/rsm/app1.png"  alt="Observer">
+    <img src="https://github.com/SouL-H/Design-Pattern/blob/master/Composite%20Pattern/img/img.jpg?raw=true"  alt="Observer">
 </p>

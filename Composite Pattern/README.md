@@ -5,7 +5,7 @@
 * Java Composite Pattern uygulanarak oluşturduğum Menu ve içerik consol uygulaması.
 
 # Kurulum
-* Src klasörü içindeki klasörü projenize ekleyin.
+* Src dizini içerisindeki klasörü projenize ekleyiniz.
 
 # Görünüm
 <p align="center">

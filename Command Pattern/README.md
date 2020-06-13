@@ -9,7 +9,7 @@ Proje amacı ufak bir word editör görevi üstlenmesidir.Seçilen metini K tuş
 Yapılan değişiklikleri ileri geri tuşu ile kontrol edebilmekte.Yapılan değişiklikler kaydedilebilmekte.
 
 # Kurulum - Kutuphane
-* Lib dosyasını Netbeans'da oluşturmuş olduğunuz projenize dahil edin.src klasörü içindeki klasörü projenize ekleyin.
+* Lib dosyasını Netbeans'da oluşturmuş olduğunuz projenize dahil edin.Src dizini içerisindeki klasörü projenize ekleyiniz.
 
 # Görünüm
 
